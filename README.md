@@ -46,6 +46,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Anou26/LeetCode-Prep/tree/master/0035-search-insert-position) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anou26/LeetCode-Prep/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anou26/LeetCode-Prep/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Anou26/LeetCode-Prep/tree/master/3291-find-if-array-can-be-sorted) |
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anou26/LeetCode-Prep/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Anou26/LeetCode-Prep/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
