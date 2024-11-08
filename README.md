@@ -48,6 +48,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Anou26/LeetCode-Prep/tree/master/0035-search-insert-position) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anou26/LeetCode-Prep/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1940-maximum-xor-for-each-query](https://github.com/Anou26/LeetCode-Prep/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anou26/LeetCode-Prep/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Anou26/LeetCode-Prep/tree/master/3291-find-if-array-can-be-sorted) |
 ## String Matching
@@ -57,6 +58,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/Anou26/LeetCode-Prep/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anou26/LeetCode-Prep/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Anou26/LeetCode-Prep/tree/master/3291-find-if-array-can-be-sorted) |
 ## Sorting
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Anou26/LeetCode-Prep/tree/master/0035-search-insert-position) |
+## Prefix Sum
+|  |
+| ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/Anou26/LeetCode-Prep/tree/master/1940-maximum-xor-for-each-query) |
 <!---LeetCode Topics End-->
