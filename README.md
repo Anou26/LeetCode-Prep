@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Anou26/LeetCode-Prep/tree/master/0009-palindrome-number) |
 | [1585-the-kth-factor-of-n](https://github.com/Anou26/LeetCode-Prep/tree/master/1585-the-kth-factor-of-n) |
 ## Number Theory
 |  |
