@@ -1,4 +1,4 @@
-# LeetCode-Prep
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
