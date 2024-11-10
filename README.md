@@ -52,6 +52,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/Anou26/LeetCode-Prep/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anou26/LeetCode-Prep/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Anou26/LeetCode-Prep/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Anou26/LeetCode-Prep/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/Anou26/LeetCode-Prep/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anou26/LeetCode-Prep/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Anou26/LeetCode-Prep/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Anou26/LeetCode-Prep/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Anou26/LeetCode-Prep/tree/master/3394-minimum-array-end) |
 ## Sorting
 |  |
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/Anou26/LeetCode-Prep/tree/master/1940-maximum-xor-for-each-query) |
+## Sliding Window
+|  |
+| ------- |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Anou26/LeetCode-Prep/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 <!---LeetCode Topics End-->
