@@ -6,10 +6,12 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Anou26/LeetCode-Prep/tree/master/0009-palindrome-number) |
 | [1585-the-kth-factor-of-n](https://github.com/Anou26/LeetCode-Prep/tree/master/1585-the-kth-factor-of-n) |
+| [2716-prime-subtraction-operation](https://github.com/Anou26/LeetCode-Prep/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/Anou26/LeetCode-Prep/tree/master/1585-the-kth-factor-of-n) |
+| [2716-prime-subtraction-operation](https://github.com/Anou26/LeetCode-Prep/tree/master/2716-prime-subtraction-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +30,7 @@
 |  |
 | ------- |
 | [2487-optimal-partition-of-string](https://github.com/Anou26/LeetCode-Prep/tree/master/2487-optimal-partition-of-string) |
+| [2716-prime-subtraction-operation](https://github.com/Anou26/LeetCode-Prep/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +55,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anou26/LeetCode-Prep/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1940-maximum-xor-for-each-query](https://github.com/Anou26/LeetCode-Prep/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anou26/LeetCode-Prep/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2716-prime-subtraction-operation](https://github.com/Anou26/LeetCode-Prep/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Anou26/LeetCode-Prep/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Anou26/LeetCode-Prep/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## String Matching
@@ -79,6 +83,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Anou26/LeetCode-Prep/tree/master/0035-search-insert-position) |
+| [2716-prime-subtraction-operation](https://github.com/Anou26/LeetCode-Prep/tree/master/2716-prime-subtraction-operation) |
 ## Prefix Sum
 |  |
 | ------- |
