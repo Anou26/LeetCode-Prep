@@ -56,6 +56,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Anou26/LeetCode-Prep/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Anou26/LeetCode-Prep/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Anou26/LeetCode-Prep/tree/master/0136-single-number) |
 | [0792-binary-search](https://github.com/Anou26/LeetCode-Prep/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Anou26/LeetCode-Prep/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1319-unique-number-of-occurrences](https://github.com/Anou26/LeetCode-Prep/tree/master/1319-unique-number-of-occurrences) |
@@ -80,6 +81,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Anou26/LeetCode-Prep/tree/master/0136-single-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/Anou26/LeetCode-Prep/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anou26/LeetCode-Prep/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Anou26/LeetCode-Prep/tree/master/3291-find-if-array-can-be-sorted) |
