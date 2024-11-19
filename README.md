@@ -21,6 +21,7 @@
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Anou26/LeetCode-Prep/tree/master/0345-reverse-vowels-of-a-string) |
 | [0812-rotate-string](https://github.com/Anou26/LeetCode-Prep/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Anou26/LeetCode-Prep/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2487-optimal-partition-of-string](https://github.com/Anou26/LeetCode-Prep/tree/master/2487-optimal-partition-of-string) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anou26/LeetCode-Prep/tree/master/0088-merge-sorted-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Anou26/LeetCode-Prep/tree/master/0345-reverse-vowels-of-a-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Anou26/LeetCode-Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Anou26/LeetCode-Prep/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Stack
