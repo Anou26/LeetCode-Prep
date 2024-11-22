@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Anou26/LeetCode-Prep/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Anou26/LeetCode-Prep/tree/master/0029-divide-two-integers) |
 | [1585-the-kth-factor-of-n](https://github.com/Anou26/LeetCode-Prep/tree/master/1585-the-kth-factor-of-n) |
 | [2716-prime-subtraction-operation](https://github.com/Anou26/LeetCode-Prep/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
@@ -87,6 +88,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Anou26/LeetCode-Prep/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Anou26/LeetCode-Prep/tree/master/0136-single-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/Anou26/LeetCode-Prep/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anou26/LeetCode-Prep/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
