@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Anou26/LeetCode-Prep/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Anou26/LeetCode-Prep/tree/master/0242-valid-anagram) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Anou26/LeetCode-Prep/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/Anou26/LeetCode-Prep/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Anou26/LeetCode-Prep/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -27,6 +28,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Anou26/LeetCode-Prep/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anou26/LeetCode-Prep/tree/master/0345-reverse-vowels-of-a-string) |
 | [0812-rotate-string](https://github.com/Anou26/LeetCode-Prep/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Anou26/LeetCode-Prep/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -105,6 +107,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anou26/LeetCode-Prep/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Anou26/LeetCode-Prep/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Anou26/LeetCode-Prep/tree/master/0242-valid-anagram) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Anou26/LeetCode-Prep/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Anou26/LeetCode-Prep/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Anou26/LeetCode-Prep/tree/master/3291-find-if-array-can-be-sorted) |
