@@ -33,6 +33,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Anou26/LeetCode-Prep/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Anou26/LeetCode-Prep/tree/master/0242-valid-anagram) |
+| [0271-encode-and-decode-strings](https://github.com/Anou26/LeetCode-Prep/tree/master/0271-encode-and-decode-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anou26/LeetCode-Prep/tree/master/0345-reverse-vowels-of-a-string) |
 | [0812-rotate-string](https://github.com/Anou26/LeetCode-Prep/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Anou26/LeetCode-Prep/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -73,6 +74,7 @@
 | [0088-merge-sorted-array](https://github.com/Anou26/LeetCode-Prep/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Anou26/LeetCode-Prep/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Anou26/LeetCode-Prep/tree/master/0217-contains-duplicate) |
+| [0271-encode-and-decode-strings](https://github.com/Anou26/LeetCode-Prep/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Anou26/LeetCode-Prep/tree/master/0347-top-k-frequent-elements) |
 | [0787-sliding-puzzle](https://github.com/Anou26/LeetCode-Prep/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Anou26/LeetCode-Prep/tree/master/0792-binary-search) |
@@ -210,4 +212,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anou26/LeetCode-Prep/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0271-encode-and-decode-strings](https://github.com/Anou26/LeetCode-Prep/tree/master/0271-encode-and-decode-strings) |
 <!---LeetCode Topics End-->
