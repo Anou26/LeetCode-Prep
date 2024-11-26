@@ -216,4 +216,8 @@
 |  |
 | ------- |
 | [0271-encode-and-decode-strings](https://github.com/Anou26/LeetCode-Prep/tree/master/0271-encode-and-decode-strings) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/Anou26/LeetCode-Prep/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
