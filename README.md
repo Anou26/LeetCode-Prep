@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2201-valid-arrangement-of-pairs](https://github.com/Anou26/LeetCode-Prep/tree/master/2201-valid-arrangement-of-pairs) |
 ## Binary Tree
 |  |
 | ------- |
@@ -229,6 +230,7 @@
 ## Graph
 |  |
 | ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/Anou26/LeetCode-Prep/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anou26/LeetCode-Prep/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anou26/LeetCode-Prep/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Anou26/LeetCode-Prep/tree/master/3189-find-champion-ii) |
@@ -238,4 +240,8 @@
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anou26/LeetCode-Prep/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anou26/LeetCode-Prep/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/Anou26/LeetCode-Prep/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
