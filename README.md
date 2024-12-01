@@ -32,6 +32,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anou26/LeetCode-Prep/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Anou26/LeetCode-Prep/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Anou26/LeetCode-Prep/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/Anou26/LeetCode-Prep/tree/master/0271-encode-and-decode-strings) |
@@ -174,6 +175,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anou26/LeetCode-Prep/tree/master/0020-valid-parentheses) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Anou26/LeetCode-Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
