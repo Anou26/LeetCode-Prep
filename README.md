@@ -39,6 +39,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Anou26/LeetCode-Prep/tree/master/0345-reverse-vowels-of-a-string) |
 | [0812-rotate-string](https://github.com/Anou26/LeetCode-Prep/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Anou26/LeetCode-Prep/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Anou26/LeetCode-Prep/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anou26/LeetCode-Prep/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Anou26/LeetCode-Prep/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Anou26/LeetCode-Prep/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Anou26/LeetCode-Prep/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Anou26/LeetCode-Prep/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/Anou26/LeetCode-Prep/tree/master/1940-maximum-xor-for-each-query) |
 ## Sliding Window
 |  |
