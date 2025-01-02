@@ -96,6 +96,7 @@
 | [1755-defuse-the-bomb](https://github.com/Anou26/LeetCode-Prep/tree/master/1755-defuse-the-bomb) |
 | [1940-maximum-xor-for-each-query](https://github.com/Anou26/LeetCode-Prep/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Anou26/LeetCode-Prep/tree/master/1972-rotating-the-box) |
+| [2058-concatenation-of-array](https://github.com/Anou26/LeetCode-Prep/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/Anou26/LeetCode-Prep/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Anou26/LeetCode-Prep/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Anou26/LeetCode-Prep/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -226,6 +227,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/Anou26/LeetCode-Prep/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Anou26/LeetCode-Prep/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Anou26/LeetCode-Prep/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Breadth-First Search
