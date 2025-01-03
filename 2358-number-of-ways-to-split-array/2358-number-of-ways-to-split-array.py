@@ -1,18 +1,21 @@
 class Solution:
     def waysToSplitArray(self, nums: List[int]) -> int:
         n = len(nums)
-        # Prefix sum array to store cumulative sums
-        pref_sum = [0] * n
-        pref_sum[0] = nums[0]
+        prefix_sum = [0] * (n+1)
 
-        # Build prefix sum array
-        for i in range(1, n):
-            pref_sum[i] = pref_sum[i - 1] + nums[i]
+        #Initialize and calculate prefix sum
+        for i in range(n):
+            prefix_sum[i+1] = prefix_sum[i] + nums[i]
 
-        # Check each possible split position
-        count = sum(
-            1 for i in range(n - 1) if pref_sum[i] >= pref_sum[-1] - pref_sum[i]
-        )
+        #Initialize count of valid splits to 0 first
+        count = 0
 
-        return count
+        #Calculate valid splits
+        for i in range(n-1):
+            if prefix_sum[i+1] >= prefix_sum[n] - prefix_sum[i+1]:
+                count+=1
         
+        return count
+            
+
+
