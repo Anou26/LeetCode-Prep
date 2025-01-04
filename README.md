@@ -18,6 +18,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Anou26/LeetCode-Prep/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Anou26/LeetCode-Prep/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Anou26/LeetCode-Prep/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Anou26/LeetCode-Prep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anou26/LeetCode-Prep/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Anou26/LeetCode-Prep/tree/master/0347-top-k-frequent-elements) |
@@ -82,6 +83,7 @@
 | [0035-search-insert-position](https://github.com/Anou26/LeetCode-Prep/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Anou26/LeetCode-Prep/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Anou26/LeetCode-Prep/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Anou26/LeetCode-Prep/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Anou26/LeetCode-Prep/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Anou26/LeetCode-Prep/tree/master/0217-contains-duplicate) |
 | [0271-encode-and-decode-strings](https://github.com/Anou26/LeetCode-Prep/tree/master/0271-encode-and-decode-strings) |
@@ -276,4 +278,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anou26/LeetCode-Prep/tree/master/0014-longest-common-prefix) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Anou26/LeetCode-Prep/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
