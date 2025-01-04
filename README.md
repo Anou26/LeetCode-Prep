@@ -82,6 +82,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Anou26/LeetCode-Prep/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anou26/LeetCode-Prep/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/Anou26/LeetCode-Prep/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Anou26/LeetCode-Prep/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Anou26/LeetCode-Prep/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Anou26/LeetCode-Prep/tree/master/0088-merge-sorted-array) |
@@ -187,6 +188,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Anou26/LeetCode-Prep/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Anou26/LeetCode-Prep/tree/master/0088-merge-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anou26/LeetCode-Prep/tree/master/0345-reverse-vowels-of-a-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anou26/LeetCode-Prep/tree/master/1468-check-if-n-and-its-double-exist) |
