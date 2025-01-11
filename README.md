@@ -28,6 +28,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/Anou26/LeetCode-Prep/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Anou26/LeetCode-Prep/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anou26/LeetCode-Prep/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-construct-k-palindrome-strings](https://github.com/Anou26/LeetCode-Prep/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Anou26/LeetCode-Prep/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anou26/LeetCode-Prep/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2487-optimal-partition-of-string](https://github.com/Anou26/LeetCode-Prep/tree/master/2487-optimal-partition-of-string) |
@@ -46,6 +47,7 @@
 | [0812-rotate-string](https://github.com/Anou26/LeetCode-Prep/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Anou26/LeetCode-Prep/tree/master/0952-word-subsets) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Anou26/LeetCode-Prep/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/Anou26/LeetCode-Prep/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Anou26/LeetCode-Prep/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Anou26/LeetCode-Prep/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anou26/LeetCode-Prep/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -66,6 +68,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/Anou26/LeetCode-Prep/tree/master/1502-construct-k-palindrome-strings) |
 | [2089-maximum-matrix-sum](https://github.com/Anou26/LeetCode-Prep/tree/master/2089-maximum-matrix-sum) |
 | [2487-optimal-partition-of-string](https://github.com/Anou26/LeetCode-Prep/tree/master/2487-optimal-partition-of-string) |
 | [2716-prime-subtraction-operation](https://github.com/Anou26/LeetCode-Prep/tree/master/2716-prime-subtraction-operation) |
@@ -175,6 +178,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/Anou26/LeetCode-Prep/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Anou26/LeetCode-Prep/tree/master/0347-top-k-frequent-elements) |
+| [1502-construct-k-palindrome-strings](https://github.com/Anou26/LeetCode-Prep/tree/master/1502-construct-k-palindrome-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anou26/LeetCode-Prep/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Binary Search
 |  |
