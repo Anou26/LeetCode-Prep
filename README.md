@@ -34,6 +34,7 @@
 | [2487-optimal-partition-of-string](https://github.com/Anou26/LeetCode-Prep/tree/master/2487-optimal-partition-of-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anou26/LeetCode-Prep/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Anou26/LeetCode-Prep/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anou26/LeetCode-Prep/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Anou26/LeetCode-Prep/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -140,6 +141,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/Anou26/LeetCode-Prep/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anou26/LeetCode-Prep/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Anou26/LeetCode-Prep/tree/master/2716-prime-subtraction-operation) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anou26/LeetCode-Prep/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Anou26/LeetCode-Prep/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anou26/LeetCode-Prep/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Anou26/LeetCode-Prep/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -161,6 +163,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/Anou26/LeetCode-Prep/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Anou26/LeetCode-Prep/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anou26/LeetCode-Prep/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anou26/LeetCode-Prep/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Anou26/LeetCode-Prep/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Anou26/LeetCode-Prep/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Anou26/LeetCode-Prep/tree/master/3394-minimum-array-end) |
