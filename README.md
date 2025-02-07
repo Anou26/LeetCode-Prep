@@ -25,6 +25,7 @@
 | [0242-valid-anagram](https://github.com/Anou26/LeetCode-Prep/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Anou26/LeetCode-Prep/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anou26/LeetCode-Prep/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Anou26/LeetCode-Prep/tree/master/0567-permutation-in-string) |
 | [0952-word-subsets](https://github.com/Anou26/LeetCode-Prep/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Anou26/LeetCode-Prep/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/Anou26/LeetCode-Prep/tree/master/1319-unique-number-of-occurrences) |
@@ -51,6 +52,7 @@
 | [0344-reverse-string](https://github.com/Anou26/LeetCode-Prep/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anou26/LeetCode-Prep/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anou26/LeetCode-Prep/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Anou26/LeetCode-Prep/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Anou26/LeetCode-Prep/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Anou26/LeetCode-Prep/tree/master/0952-word-subsets) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Anou26/LeetCode-Prep/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -237,6 +239,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anou26/LeetCode-Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anou26/LeetCode-Prep/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Anou26/LeetCode-Prep/tree/master/0567-permutation-in-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Anou26/LeetCode-Prep/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/Anou26/LeetCode-Prep/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anou26/LeetCode-Prep/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -256,6 +259,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anou26/LeetCode-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Anou26/LeetCode-Prep/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anou26/LeetCode-Prep/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/Anou26/LeetCode-Prep/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anou26/LeetCode-Prep/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anou26/LeetCode-Prep/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Anou26/LeetCode-Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
