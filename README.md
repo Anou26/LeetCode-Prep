@@ -273,6 +273,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anou26/LeetCode-Prep/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anou26/LeetCode-Prep/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Anou26/LeetCode-Prep/tree/master/0155-min-stack) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Anou26/LeetCode-Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Anou26/LeetCode-Prep/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
@@ -337,6 +338,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Anou26/LeetCode-Prep/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/Anou26/LeetCode-Prep/tree/master/0271-encode-and-decode-strings) |
 ## Graph
 |  |
