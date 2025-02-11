@@ -26,6 +26,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Anou26/LeetCode-Prep/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anou26/LeetCode-Prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Anou26/LeetCode-Prep/tree/master/0567-permutation-in-string) |
+| [0931-maximum-frequency-stack](https://github.com/Anou26/LeetCode-Prep/tree/master/0931-maximum-frequency-stack) |
 | [0952-word-subsets](https://github.com/Anou26/LeetCode-Prep/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Anou26/LeetCode-Prep/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/Anou26/LeetCode-Prep/tree/master/1319-unique-number-of-occurrences) |
@@ -274,6 +275,7 @@
 | [0020-valid-parentheses](https://github.com/Anou26/LeetCode-Prep/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anou26/LeetCode-Prep/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Anou26/LeetCode-Prep/tree/master/0155-min-stack) |
+| [0931-maximum-frequency-stack](https://github.com/Anou26/LeetCode-Prep/tree/master/0931-maximum-frequency-stack) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Anou26/LeetCode-Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Anou26/LeetCode-Prep/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
@@ -340,6 +342,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/Anou26/LeetCode-Prep/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/Anou26/LeetCode-Prep/tree/master/0271-encode-and-decode-strings) |
+| [0931-maximum-frequency-stack](https://github.com/Anou26/LeetCode-Prep/tree/master/0931-maximum-frequency-stack) |
 ## Graph
 |  |
 | ------- |
@@ -380,4 +383,8 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Anou26/LeetCode-Prep/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Ordered Set
+|  |
+| ------- |
+| [0931-maximum-frequency-stack](https://github.com/Anou26/LeetCode-Prep/tree/master/0931-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
