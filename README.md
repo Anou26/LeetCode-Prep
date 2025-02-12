@@ -129,6 +129,7 @@
 | [0229-majority-element-ii](https://github.com/Anou26/LeetCode-Prep/tree/master/0229-majority-element-ii) |
 | [0271-encode-and-decode-strings](https://github.com/Anou26/LeetCode-Prep/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Anou26/LeetCode-Prep/tree/master/0347-top-k-frequent-elements) |
+| [0739-daily-temperatures](https://github.com/Anou26/LeetCode-Prep/tree/master/0739-daily-temperatures) |
 | [0787-sliding-puzzle](https://github.com/Anou26/LeetCode-Prep/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Anou26/LeetCode-Prep/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Anou26/LeetCode-Prep/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -278,6 +279,7 @@
 | [0042-trapping-rain-water](https://github.com/Anou26/LeetCode-Prep/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anou26/LeetCode-Prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Anou26/LeetCode-Prep/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Anou26/LeetCode-Prep/tree/master/0739-daily-temperatures) |
 | [0931-maximum-frequency-stack](https://github.com/Anou26/LeetCode-Prep/tree/master/0931-maximum-frequency-stack) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Anou26/LeetCode-Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Anou26/LeetCode-Prep/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -285,6 +287,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anou26/LeetCode-Prep/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Anou26/LeetCode-Prep/tree/master/0739-daily-temperatures) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Anou26/LeetCode-Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Queue
 |  |
