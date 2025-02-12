@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Anou26/LeetCode-Prep/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Anou26/LeetCode-Prep/tree/master/0029-divide-two-integers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anou26/LeetCode-Prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1585-the-kth-factor-of-n](https://github.com/Anou26/LeetCode-Prep/tree/master/1585-the-kth-factor-of-n) |
 | [2716-prime-subtraction-operation](https://github.com/Anou26/LeetCode-Prep/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
@@ -122,6 +123,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anou26/LeetCode-Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Anou26/LeetCode-Prep/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Anou26/LeetCode-Prep/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anou26/LeetCode-Prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anou26/LeetCode-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Anou26/LeetCode-Prep/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Anou26/LeetCode-Prep/tree/master/0229-majority-element-ii) |
@@ -274,6 +276,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anou26/LeetCode-Prep/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anou26/LeetCode-Prep/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anou26/LeetCode-Prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Anou26/LeetCode-Prep/tree/master/0155-min-stack) |
 | [0931-maximum-frequency-stack](https://github.com/Anou26/LeetCode-Prep/tree/master/0931-maximum-frequency-stack) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Anou26/LeetCode-Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
