@@ -47,6 +47,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anou26/LeetCode-Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Anou26/LeetCode-Prep/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Anou26/LeetCode-Prep/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Anou26/LeetCode-Prep/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Anou26/LeetCode-Prep/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Anou26/LeetCode-Prep/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anou26/LeetCode-Prep/tree/master/0242-valid-anagram) |
@@ -91,6 +92,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Anou26/LeetCode-Prep/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anou26/LeetCode-Prep/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anou26/LeetCode-Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -393,4 +395,8 @@
 |  |
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/Anou26/LeetCode-Prep/tree/master/0931-maximum-frequency-stack) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Anou26/LeetCode-Prep/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
