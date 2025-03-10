@@ -139,6 +139,7 @@
 | [0787-sliding-puzzle](https://github.com/Anou26/LeetCode-Prep/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Anou26/LeetCode-Prep/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Anou26/LeetCode-Prep/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0907-koko-eating-bananas](https://github.com/Anou26/LeetCode-Prep/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/Anou26/LeetCode-Prep/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Anou26/LeetCode-Prep/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/Anou26/LeetCode-Prep/tree/master/1319-unique-number-of-occurrences) |
@@ -228,6 +229,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anou26/LeetCode-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/Anou26/LeetCode-Prep/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Anou26/LeetCode-Prep/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0907-koko-eating-bananas](https://github.com/Anou26/LeetCode-Prep/tree/master/0907-koko-eating-bananas) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anou26/LeetCode-Prep/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Anou26/LeetCode-Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Anou26/LeetCode-Prep/tree/master/2179-most-beautiful-item-for-each-query) |
