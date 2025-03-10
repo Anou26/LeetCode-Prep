@@ -130,6 +130,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Anou26/LeetCode-Prep/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Anou26/LeetCode-Prep/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anou26/LeetCode-Prep/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anou26/LeetCode-Prep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anou26/LeetCode-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Anou26/LeetCode-Prep/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Anou26/LeetCode-Prep/tree/master/0229-majority-element-ii) |
@@ -226,6 +227,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Anou26/LeetCode-Prep/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Anou26/LeetCode-Prep/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Anou26/LeetCode-Prep/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anou26/LeetCode-Prep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anou26/LeetCode-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/Anou26/LeetCode-Prep/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Anou26/LeetCode-Prep/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
