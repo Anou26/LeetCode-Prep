@@ -104,12 +104,14 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/0543-diameter-of-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/0543-diameter-of-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Anou26/LeetCode-Prep/tree/master/2201-valid-arrangement-of-pairs) |
 ## Binary Tree
@@ -117,6 +119,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/0543-diameter-of-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Array
 |  |
