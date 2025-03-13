@@ -109,6 +109,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Anou26/LeetCode-Prep/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/0572-subtree-of-another-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -119,6 +120,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Anou26/LeetCode-Prep/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/0572-subtree-of-another-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Anou26/LeetCode-Prep/tree/master/2201-valid-arrangement-of-pairs) |
 ## Binary Tree
@@ -131,6 +133,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Anou26/LeetCode-Prep/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/0572-subtree-of-another-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Array
 |  |
@@ -201,6 +204,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/Anou26/LeetCode-Prep/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Anou26/LeetCode-Prep/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anou26/LeetCode-Prep/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -429,6 +433,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Anou26/LeetCode-Prep/tree/master/0572-subtree-of-another-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anou26/LeetCode-Prep/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Brainteaser
 |  |
