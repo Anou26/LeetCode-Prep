@@ -158,6 +158,7 @@
 | [0042-trapping-rain-water](https://github.com/Anou26/LeetCode-Prep/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Anou26/LeetCode-Prep/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Anou26/LeetCode-Prep/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Anou26/LeetCode-Prep/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Anou26/LeetCode-Prep/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anou26/LeetCode-Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Anou26/LeetCode-Prep/tree/master/0128-longest-consecutive-sequence) |
@@ -223,6 +224,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Anou26/LeetCode-Prep/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Anou26/LeetCode-Prep/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Anou26/LeetCode-Prep/tree/master/0136-single-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/Anou26/LeetCode-Prep/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Anou26/LeetCode-Prep/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -457,6 +459,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anou26/LeetCode-Prep/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Anou26/LeetCode-Prep/tree/master/0078-subsets) |
 ## Linked List
 |  |
 | ------- |
